@@ -1,0 +1,18 @@
+{
+  "name": "billove",
+  "version": "1.2.9",
+  "description": "Digital love letters and romantic gifts platform",
+  "main": "billove-premium-seo.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "love letter",
+    "romantic gift",
+    "digital gift",
+    "animated letter"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
